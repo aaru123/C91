@@ -8,6 +8,7 @@ import Ionicons from 'react-native-vector-icons/Ionicons'
 import Create from '../screens/create';
 import Home from '../screens/Home';
 import ViewScreen from '../screens/view';
+import { RFValue, RFPercentage } from 'react-native-responsive-fontsize';
 
 const Tab = createMaterialBottomTabNavigator()
 
